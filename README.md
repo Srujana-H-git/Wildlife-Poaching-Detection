@@ -7,6 +7,7 @@
 Wildlife poaching remains a critical threat to biodiversity, especially in remote forest regions where continuous human monitoring is unfeasible. Conventional surveillance systems are either reactive, energy-intensive, or incapable of differentiating between poachers, wildlife, and vehicles. These limitations hinder rapid intervention and compromise wildlife protection efforts.
 
 
+
 ### 💡 Proposed Solution
 We propose a low-power, real-time AI-based poaching detection system designed for remote forest surveillance. The solution uses a trained object detection model to analyze video frames and identify the presence of poachers, animals, or vehicles. Upon detecting a poacher, the system sends an immediate SMS alert to forest authorities using a GSM module. The device is motion-triggered to optimize energy usage and is built with solar-powered hardware for continuous operation in off-grid environments.
 
