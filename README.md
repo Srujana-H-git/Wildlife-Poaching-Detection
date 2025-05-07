@@ -1,6 +1,5 @@
 # 🛡 AI-Based Wildlife Poaching Detection System
 
-
 ## 📖 Abstract
 
 ### 🐾 Problem Statement
